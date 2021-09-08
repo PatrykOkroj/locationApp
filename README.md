@@ -1,5 +1,5 @@
 # locationApp
-### This project is a simple application which allows to get location from ither devices
+### This project is a simple application which allows to get location from other devices
 ## Requirements
 - jdk 11
 ## How to run
